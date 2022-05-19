@@ -18,8 +18,8 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
   Recensiamo i migliori prodotti dal 2009. Trova i tuoi prodotti preferiti grazie alle nostre ricerche di mercato.
   Cerca, commenta e condividi con i tuoi amici le nostre scoperte sui prodotti tech e altro.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "recensioni-italia" # the subpath of your site, e.g. /blog
+url: "https://gpixel7.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
